@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Exam3</string>
+    <string name="lugar">Lugar</string>
+    <string name="imagenUrl">Imagen Ref.</string>
+    <string name="latlog">Latitud, Longitud</string>
+    <string name="orden">Orden</string>
+    <string name="costoAloj">Costo Alojamiento</string>
+    <string name="costoTraslados">Costo Traslados</string>
+    <string name="comentarios">Comentarios</string>
+    <string name="guardar">Guardar</string>
+    <string name="regresar">Volver</string>
+    <string name="title_activity_full_view2">FullView2</string>
+    <string name="title_activity_form_reserv">FormReserv</string>
+</resources>

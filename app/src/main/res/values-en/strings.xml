@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exam3</string>
+    <string name="lugar">Place</string>
+    <string name="imagenUrl">Imagen Ref.</string>
+    <string name="latlog">Latitude, Longitude</string>
+    <string name="orden">Order</string>
+    <string name="costoAloj">Accommodation Cost</string>
+    <string name="costoTraslados">Transfer Cost</string>
+    <string name="comentarios">Comments</string>
+    <string name="guardar">Save</string>
+    <string name="regresar">Back</string>
+</resources>
