@@ -6,14 +6,14 @@ import androidx.room.PrimaryKey
 
 @Entity
 data class Reserva(
-    @PrimaryKey(autoGenerate = true) val id :Int,
+    @PrimaryKey(autoGenerate = true) val id :Int? = null,
     val lugar:String,
-    val  urlImage :String,
-    val  latitud :String,
+    val urlImage :String?=null,
+    val latitud :String,
     val longitud:String,
     val orden : Int ,
-    val  costoAlojamiento :Int,
-    val  costoTraslado :Int,
+    val costoAlojamiento :Int,
+    val costoTraslado :Int,
     val comentarios:String
 ){
  val imagenUrl :String

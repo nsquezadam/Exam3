@@ -10,4 +10,6 @@
     <string name="comentarios">Comments</string>
     <string name="guardar">Save</string>
     <string name="regresar">Back</string>
+    <string name="title_activity_full_view2">FullView2</string>
+    <string name="title_activity_form_reserv">FormReserv</string>
 </resources>
